@@ -1,7 +1,7 @@
 blank
 =====
 
-blank repo for getout
+blank repo for getout.
 
 
 ### Solar System Exploration, 1950s – 1960s
