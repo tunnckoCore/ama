@@ -34,11 +34,12 @@ into some of the older threads.
 
 #### Twitter
 If you have something quick and easy, just ping me on Twitter. 140 characters
-makes everyone more efficient. I'm [@tunnckoCore](https://twitter.com/tunnckoCore) on
+makes everyone more efficient.  
+I'm [@tunnckoCore](https://twitter.com/tunnckoCore) on
 Twitter.
 
 #### Others
-[facebook/tunnckoCore](https://facebook.com/tunnckocore)
-[pinterest/tunnckoCore](https://pinterest.com/tunnckoCore)
-[gittip/tunnckoCore](https://gittip.com/tunnckoCore)
-[npmjs/tunnckoCore](https://npmjs.org/~tunnckocore)
+- [facebook/tunnckoCore](https://facebook.com/tunnckocore)
+- [pinterest/tunnckoCore](https://pinterest.com/tunnckoCore)
+- [gittip/tunnckoCore](https://gittip.com/tunnckoCore)
+- [npmjs/tunnckoCore](https://npmjs.org/~tunnckocore)
