@@ -1,5 +1,7 @@
 # messages [![new message to charlike][new-message-img]][new-message-url]
 
+[![Join the chat at https://gitter.im/tunnckoCore/messages](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/tunnckoCore/messages?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Instead of sending me email use the [issue tracker](https://github.com/tunnckoCore/messages/issues) to send me messages.
 
 If you have any technical problems with Git or GitHub, you're better off 
