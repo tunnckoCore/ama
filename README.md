@@ -11,7 +11,7 @@ end up getting a much faster response back that way.
 ### Ask a question
 
 Asking a question is as easy as
-[creating a new issue](https://github.com/tunnckoCore/messages/issues/new) on this
+[creating a new issue][new-message-url] on this
 project. Or come in [chat room](https://gitter.im/tunnckoCore/messages) of this repo for live chat!
 
 I'll try to answer it as soon as I can get to it. Once I answer I'll close the
@@ -28,5 +28,5 @@ filter on this repository to browse questions I've answered in the past. I try
 to use this as an email replacement that everyone can see, so feel free to dig
 into some of the older threads.
 
-[new-message-img]: https://img.shields.io/badge/freenode-%23charlike-5654a4.svg
-[new-message-url]: http://webchat.freenode.net/?channels=charlike
+[new-message-img]: https://img.shields.io/badge/new-message-5654a4.svg
+[new-message-url]: https://github.com/tunnckoCore/messages/issues/new
