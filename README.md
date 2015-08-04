@@ -1,17 +1,29 @@
-# messages [![new message to charlike][new-message-img]][new-message-url] [![join gitter.im chat][chatroom-img]][chatroom-url]
-
-Instead of sending me email use the [issue tracker](https://github.com/tunnckoCore/messages/issues) to send me messages.
-
-To send me a **private message** you should encrypt it using PGP and post it as an issue to the issue tracker. This is relatively easy using [keybase.io](https://keybase.io). 
-
-I'm [tunnckocore](https://keybase.io/tunnckocore) on keybase!
-
-## Follow me
-[![freenode #charlike][freenode-img]][freenode-url] [![tunnckoCore npm][author-npm-img]][author-npm-url] [![tunnckoCore twitter][author-twitter-img]][author-twitter-url] [![tunnckoCore github][author-github-img]][author-github-url]
+# Ask Me Anything [![join gitter.im chat][chatroom-img]][chatroom-url] [![new message to charlike][ama-img]][ama-url] [![freenode #charlike][freenode-img]][freenode-url]
 
 
-## Using Keybase.io
-Consider the [keybase command line program](https://keybase.io/docs/command_line).
+## [Ask a question](https://github.com/tunnckoCore/ama/issues/new) 
+I get a lot of questions by email. This way anyone can read the answer!
+
+If you want some **private communication** with me, you should encrypt your **message** using PGP and post it as public question to the [issue tracker](https://github.com/tunnckoCore/ama/issues). This is relatively easy using [Keybase.io](https://keybase.io).
+
+### Guidelines 
+- Ensure your question hasn't [already been answered](https://github.com/tunnckoCore/ama/issues?q=is%3Aissue+is%3Aclosed).
+- Use a succinct title and description.
+- Bugs & feature requests should be opened on the relevant issue tracker.
+- Support questions are better asked on Stack Overflow.
+- Be civil and polite :)
+
+## [Read questions](https://github.com/tunnckoCore/ama/issues?q=is%3Aissue+is%3Aclosed)
+Make your day, drinking your morning coffee and joining the discussions, be polite.
+
+**Or check these links:**
+- [Read more AMAs](https://github.com/sindresorhus/amas)
+- [Create your own AMA](https://github.com/sindresorhus/amas/blob/master/create-ama.md)
+- [What's an AMA?](https://en.wikipedia.org/wiki/Reddit#IAmA_and_AMA)
+
+### At keybase
+I'm [tunnckocore](https://keybase.io/tunnckocore) on [keybase.io](https://keybase.io)!
+
 ```bash
 # look me up
 keybase id tunnckocore
@@ -23,27 +35,19 @@ keybase encrypt tunnckocore foobar.png  # send me a file
 # ...and more... https://keybase.io
 ```
 
-## Ask a question
-Asking a question is as easy as
-[creating a new issue][new-message-url] on this
-project. Or come in [chat room][chatroom-url] of this repo for live chat!
+## Follow me
+If you have something quick and easy, just ping me on Twitter. Always 140 characters makes everyone more efficient. I'm [@tunnckoCore][author-twitter-url] there, again - as usual.
 
-I'll try to answer it as soon as I can get to it. Once I answer I'll close the
-issue just so I know what I've covered, but don't worry - if you have any further
-questions just respond in the thread and I'll get back to you soon. Feel free to
-ask a question on any old issue too, even if you didn't create it.
+Also don't forget to check [this gist](http://j.mp/1stW47C), my recent terminal screencasts on [asciinema](https://asciinema.org/~tunnckoCore) and review  
+my public [ideas & todos](https://github.com/tunnckoCore/ideas), request module and share thoughts.
 
+[![tunnckocore.tk][author-www-img]][author-www-url] [![keybase tunnckocore][keybase-img]][keybase-url] [![tunnckoCore npm][author-npm-img]][author-npm-url] [![tunnckoCore twitter][author-twitter-img]][author-twitter-url] [![tunnckoCore github][author-github-img]][author-github-url]
 
-## Read before write
-Check out the [Closed Issues](https://github.com/tunnckoCore/feedback/issues?sort=created&direction=desc&state=closed&page=1)
-filter on this repository to browse questions I've answered in the past. I try
-to use this as an email replacement that everyone can see, so feel free to dig
-into some of the older threads.
+[author-www-url]: http://www.tunnckocore.tk
+[author-www-img]: https://img.shields.io/badge/www-tunnckocore.tk-fe7d37.svg
 
-
-
-[freenode-url]: http://webchat.freenode.net/?channels=charlike
-[freenode-img]: https://img.shields.io/badge/freenode-%23charlike-5654a4.svg
+[keybase-url]: https://keybase.io/tunnckocore
+[keybase-img]: https://img.shields.io/badge/keybase-tunnckocore-8a7967.svg
 
 [author-npm-url]: https://www.npmjs.com/~tunnckocore
 [author-npm-img]: https://img.shields.io/badge/npm-~tunnckocore-cb3837.svg
@@ -54,8 +58,11 @@ into some of the older threads.
 [author-github-url]: https://github.com/tunnckoCore
 [author-github-img]: https://img.shields.io/badge/github-@tunnckoCore-4183c4.svg
 
-[new-message-img]: https://img.shields.io/badge/new-message-green.svg
-[new-message-url]: https://github.com/tunnckoCore/messages/issues/new
+[freenode-url]: http://webchat.freenode.net/?channels=charlike
+[freenode-img]: https://img.shields.io/badge/freenode-%23charlike-5654a4.svg
+
+[ama-url]: https://github.com/tunnckoCore/ama/issues/new
+[ama-img]: https://img.shields.io/badge/ask%20me-anything-green.svg
 
 [chatroom-img]: https://img.shields.io/badge/gitter%20-join%20chat%20%E2%9E%9E-1dce73.svg
-[chatroom-url]: https://gitter.im/tunnckoCore/messages
+[chatroom-url]: https://gitter.im/tunnckoCore/ama
